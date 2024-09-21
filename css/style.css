@@ -8,8 +8,7 @@ html, body {
   text-size-adjust: 100%;
   letter-spacing: 0.1em; }
 
-p, a {
-  -webkit-font-smoothing: antialiased; }
+p, a { -webkit-font-smoothing: antialiased; }
 
 a {
   color: #777;
